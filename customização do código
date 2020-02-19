@@ -1,0 +1,59 @@
+feito por julio cesar.
++--------------------------------------------------+
+|           COMANDO PARA MUDAR  LETRA              |
++--------------------------------------------------+
+|\33[1m //NEGRITO.        					          	   |
+|\33[2m //FOSCO.        					            	   |       						  
+|\33[3m //ITÁlICO.        				          		   | 
+|\33[4m //SUBLINHADO.        		          			   |
+|\33[5m //PICA PICA.        			          		   |
+|\33[7m //COR DE REALCE.                				   |
+|\33[8m //ESCONDE.        				          		   |
+|\33[9m //RASURA.        					            	   |
+|\33[21m //SUBLINHADO COM LINHA DUPLA.        	   |
+|\33[30m //LETRA PRETA        					           |
+|\33[31m //LETRA AZUL_ClARO        		      		   |
+|\33[32m //LETRA VERDE        				        	   |
+|\33[33m //LETRA LARANJA        			        	   |
+|\33[34m //LETRA AZUL        				          	   |
+|\33[35m //LETRA ROSA        					             |
+|\33[36m //LETRA AGUA        			          		   |
+|\33[37m //LETRA BRANCO        				             |				  
+|\33[53m //LETRA SUBLINHADO EM CIMA.		      	   | 
+|\33[90m //LETRA CINZA        					           |
+|\33[91m //LETRA VERMELHA   				               |
+|\33[92m //LETRA VERDE						                 |
+|\33[93m //LETRA AMARELO					                 |
+|\33[94m //LETRA AZUL_CLARO  				               |
+|\33[95m //LETRA ROSA          				             |
+|\33[96m //LETRA AZUL_CLARO                        |
+|\33[97m //LETRA BRANCO                            |
++--------------------------------------------------+
++--------------------------------------------------+
+|	  	COMANDO PARA MUDAR FUNDO TELA 		           |
++--------------------------------------------------+
+|\33[40m //FUNDO_PRETO						                 |
+|\33[41m //FUNDO_AZUL_ClARO						             |
+|\33[42m //FUNDO_VERDE						                 |
+|\33[43m //FUNDO_LARANJA						               |
+|\33[44m //FUNDO_AZUL						                   |
+|\33[45m //FUNDO_ROSA						                   |
+|\33[46m //FUNDO_AGUA						                   |
+|\33[47m //FUNDO_BRANCO						                 |
+|\33[100m //FUNDO_CINZA						                 |
+|\33[101m //FUNDO_LARANJA						               |
+|\33[102m //FUNDO_VERDE						                 |
+|\33[103m //FUNDO_AMARELO						               |
+|\33[104m //FUNDO_AZUL						                 |
+|\33[105m //FUNDO_ROSA						                 |
+|\33[106m //FUNDO_AZUL_CLARO					             |
+|\33[107m //FUNDO_BRANCO						               |
++--------------------------------------------------+
+
++--------------------------------------------------+
+|           COMANDO PARA MUDAR  LETRA              |
++--------------------------------------------------+
+|\33[0m //DELETE TODO OS COMANDO \33[              |
+|\33[39m //DELETE COMANDO LETRA \33[               |
+|\33[49m //DELETE COMANDO DE FUNDO TELA \33[       |
++--------------------------------------------------+
